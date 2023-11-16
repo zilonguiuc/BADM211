@@ -1,7 +1,7 @@
 LEAGUE_ID,TEAM_ID,MIN_YEAR,MAX_YEAR,ABBREVIATION,NICKNAME,YEARFOUNDED,CITY,ARENA,ARENACAPACITY,OWNER,GENERALMANAGER,HEADCOACH,DLEAGUEAFFILIATION
 0,1610612737,1949,2019,ATL,Hawks,1949,Atlanta,State Farm Arena,18729,Tony Ressler,Travis Schlenk,Lloyd Pierce,Erie Bayhawks
 0,1610612738,1946,2019,BOS,Celtics,1946,Boston,TD Garden,18624,Wyc Grousbeck,Danny Ainge,Brad Stevens,Maine Red Claws
-0,1610612740,2002,2019,NOP,Pelicans,2002,New Orleans,Smoothie King Center, NaN ,Tom Benson,Trajan Langdon,Alvin Gentry,No Affiliate
+0,1610612740,2002,2019,NOP,Pelicans,2002,New Orleans,Smoothie King Center, ,Tom Benson,Trajan Langdon,Alvin Gentry,No Affiliate
 0,1610612741,1966,2019,CHI,Bulls,1966,Chicago,United Center,100000,Jerry Reinsdorf,Gar Forman,Jim Boylen,Windy City Bulls
 0,1610612742,1980,2019,DAL,Mavericks,1980,Dallas,American Airlines Center,19200,Mark Cuban,Donnie Nelson,Rick Carlisle,Texas Legends
 0,1610612743,1976,2019,DEN,Nuggets,1976,Denver,Pepsi Center,19099,Stan Kroenke,Tim Connelly,Michael Malone,No Affiliate
