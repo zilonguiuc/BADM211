@@ -13,7 +13,7 @@ LEAGUE_ID,TEAM_ID,MIN_YEAR,MAX_YEAR,ABBREVIATION,NICKNAME,YEARFOUNDED,CITY,ARENA
 0,1610612750,1989,2019,MIN,Timberwolves,1989,Minnesota,Target Center,19356,Glen Taylor,Scott Layden,Ryan Saunders,Iowa Wolves
 0,1610612751,1976,2019,BKN,Nets,1976,Brooklyn,Barclays Center, ,Joe Tsai,Sean Marks,Kenny Atkinson,Long Island Nets
 0,1610612752,1946,2019,NYK,Knicks,1946,New York,Madison Square Garden,19763,Cablevision (James Dolan),Steve Mills,David Fizdale,Westchester Knicks
-0,1610612753,1989,2019,ORL,Magic,1989,Orlando,Amway Center,0,Rick DeVos,John Hammond,Steve Clifford,Lakeland Magic
+0,1610612753,1989,2019,ORL,Magic,1989,Orlando,Amway Center, ,Rick DeVos,John Hammond,Steve Clifford,Lakeland Magic
 0,1610612754,1976,2019,IND,Pacers,1976,Indiana,Bankers Life Fieldhouse,18345,Herb Simon,Kevin Pritchard,Nate McMillan,Fort Wayne Mad Ants
 0,1610612755,1949,2019,PHI,76ers,1949,Philadelphia,Wells Fargo Center, ,Joshua Harris,Elton Brand,Brett Brown,Delaware Blue Coats
 0,1610612756,1968,2019,PHX,Suns,1968,Phoenix,Talking Stick Resort Arena, ,Robert Sarver,James Jones,Monty Williams,Northern Arizona Suns
