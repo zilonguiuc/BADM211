@@ -1,3 +1,3 @@
 team_v1
-games_data
+game_data
 is for badm211
